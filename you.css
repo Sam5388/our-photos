@@ -1,0 +1,56 @@
+.navbar-logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+}
+.bg-color{
+    background-color: rgb(223, 234, 234);
+}
+span{
+    font-weight: bold;
+    color: blue;
+}
+.nameia{
+    width: 80vh;
+    padding: 10px;   
+}
+h1{
+    font-family: "roboto";
+}
+p{
+    font-family: "roboto";
+}
+.corosel-border{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+.types-card-image{
+    border-radius: 25px;  
+}
+.types_card{
+    background-color: white;
+    border-radius: 25px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.types_card_head{
+    font-size: 20px;
+}
+.follow_us{
+
+    text-align: center;
+    padding: 13px;
+    
+}
+.follow_us_icon{
+    font-size: 50px;
+    height: 80px;
+    width: 80px;
+    background-color: rgb(224, 190, 190);
+    padding-top: 14px;
+    border-radius: 50px;
+}
